@@ -12,3 +12,6 @@ spring:
   profiles: test
   application:
     name: config_test
+
+ 
+
